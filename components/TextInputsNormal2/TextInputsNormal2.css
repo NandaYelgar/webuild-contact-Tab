@@ -1,0 +1,36 @@
+.city-i2755646716 {
+  letter-spacing: 0;
+  line-height: 22px;
+  min-height: 22px;
+  min-width: 114px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.frame-1-1 {
+  align-items: center;
+  border-radius: 4px;
+  display: flex;
+  height: 50px;
+  overflow: hidden;
+  padding: 0 16px;
+  width: 302px;
+}
+.text-inputs-normal-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  min-width: 302px;
+  mix-blend-mode: normal;
+}
+.text-inputs-normal-1.text-inputs-normal-2 {
+  margin-left: 24px;
+}
+.text-inputs-normal-1.text-inputs-normal-2 .city-i2755646716 {
+  min-width: 110px;
+}
+.text-inputs-normal-1.text-inputs-normal-3 {
+  margin-top: 12px;
+}
+.text-inputs-normal-1.text-inputs-normal-3 .city-i2755646716 {
+  min-width: 178px;
+}
